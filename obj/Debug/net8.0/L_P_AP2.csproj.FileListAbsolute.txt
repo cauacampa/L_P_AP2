@@ -1,0 +1,14 @@
+C:\Users\cauac\OneDrive\Área de Trabalho\Trabalhos\L_P_AP2\bin\Debug\net8.0\L_P_AP2.exe
+C:\Users\cauac\OneDrive\Área de Trabalho\Trabalhos\L_P_AP2\bin\Debug\net8.0\L_P_AP2.deps.json
+C:\Users\cauac\OneDrive\Área de Trabalho\Trabalhos\L_P_AP2\bin\Debug\net8.0\L_P_AP2.runtimeconfig.json
+C:\Users\cauac\OneDrive\Área de Trabalho\Trabalhos\L_P_AP2\bin\Debug\net8.0\L_P_AP2.dll
+C:\Users\cauac\OneDrive\Área de Trabalho\Trabalhos\L_P_AP2\bin\Debug\net8.0\L_P_AP2.pdb
+C:\Users\cauac\OneDrive\Área de Trabalho\Trabalhos\L_P_AP2\obj\Debug\net8.0\L_P_AP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauac\OneDrive\Área de Trabalho\Trabalhos\L_P_AP2\obj\Debug\net8.0\L_P_AP2.AssemblyInfoInputs.cache
+C:\Users\cauac\OneDrive\Área de Trabalho\Trabalhos\L_P_AP2\obj\Debug\net8.0\L_P_AP2.AssemblyInfo.cs
+C:\Users\cauac\OneDrive\Área de Trabalho\Trabalhos\L_P_AP2\obj\Debug\net8.0\L_P_AP2.csproj.CoreCompileInputs.cache
+C:\Users\cauac\OneDrive\Área de Trabalho\Trabalhos\L_P_AP2\obj\Debug\net8.0\L_P_AP2.dll
+C:\Users\cauac\OneDrive\Área de Trabalho\Trabalhos\L_P_AP2\obj\Debug\net8.0\refint\L_P_AP2.dll
+C:\Users\cauac\OneDrive\Área de Trabalho\Trabalhos\L_P_AP2\obj\Debug\net8.0\L_P_AP2.pdb
+C:\Users\cauac\OneDrive\Área de Trabalho\Trabalhos\L_P_AP2\obj\Debug\net8.0\L_P_AP2.genruntimeconfig.cache
+C:\Users\cauac\OneDrive\Área de Trabalho\Trabalhos\L_P_AP2\obj\Debug\net8.0\ref\L_P_AP2.dll
